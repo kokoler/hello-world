@@ -1,2 +1,2 @@
 # hello-world
-primul supozitor
+ma cheama budor
